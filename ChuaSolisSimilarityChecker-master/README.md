@@ -1,1 +1,1 @@
-# SolisSimilarityChecker
+# ChuaSolisSimilarityChecker
